@@ -9,7 +9,7 @@
 3. [Project Period](#project-period)
 4. [Constributors](#constributors)
 5. [기능 상세](#기능-상세)
-6. [라이센스](#라이센스)
+6. [License](#license)
 
 ---
 
@@ -167,7 +167,7 @@
 
 ---
 
-## 라이센스
+## License
 
 ### MIT License
 
